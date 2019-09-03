@@ -15,7 +15,7 @@
     <string name="comma">, </string>
 
     <!--My Guardian API key-->
-    <string name="api_key" translatable="false">36a5c86b-ddca-470c-a2be-5ebe49f0d25e</string>
+    <string name="api_key" translatable="false">YOUR API KEY</string>
 
     <!--error message that will be shown if something went wrong-->
     <string name="error_message">An error happened, sorry </string>
