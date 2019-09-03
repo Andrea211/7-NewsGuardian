@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="widget_logo_size">40dp</dimen>
+    <dimen name="widget_divider_height">1dp</dimen>
+
+    <dimen name="list_item_small_margin">4dp</dimen>
+    <dimen name="list_item_margin">8dp</dimen>
+    <dimen name="list_item_thumbnail_size">120dp</dimen>
+
+    <dimen name="toolbar_height">256dp</dimen>
+    <dimen name="expanded_title_margin_start">12dp</dimen>
+    <dimen name="collapsed_toolbar_height">80dp</dimen>
+
+    <dimen name="add_margin">8dp</dimen>
+    <dimen name="add_margin_bottom">108dp</dimen>
+
+    <dimen name="progress_bar_size">42dp</dimen>
+
+    <!-- typography -->
+    <dimen name="h1">96sp</dimen>
+    <dimen name="h2">60sp</dimen>
+    <dimen name="h3">48sp</dimen>
+    <dimen name="h4">34sp</dimen>
+    <dimen name="h5">24sp</dimen>
+    <dimen name="h6">20sp</dimen>
+    <dimen name="subtitle1">16sp</dimen>
+    <dimen name="subtitle2">14sp</dimen>
+    <dimen name="body1">16sp</dimen>
+    <dimen name="body2">14sp</dimen>
+    <dimen name="button">14sp</dimen>
+    <dimen name="caption">12sp</dimen>
+    <dimen name="overline">10sp</dimen>
+    <dimen name="elevation_nav_drawer">16dp</dimen>
+
+    <!-- elevation -->
+    <dimen name="elevation_app_bar">4dp</dimen>
+    <dimen name="elevation_card_1">1dp</dimen>
+    <dimen name="elevation_card_2">2dp</dimen>
+    <dimen name="elevation_card_3">3dp</dimen>
+    <dimen name="elevation_card_4">4dp</dimen>
+    <dimen name="elevation_card_5">5dp</dimen>
+    <dimen name="elevation_card_6">6dp</dimen>
+    <dimen name="elevation_card_7">7dp</dimen>
+    <dimen name="elevation_card_8">8dp</dimen>
+    <dimen name="elevation_fab">6dp</dimen>
+    <dimen name="elevation_button_2">2dp</dimen>
+    <dimen name="elevation_button_4">4dp</dimen>
+    <dimen name="elevation_button_6">6dp</dimen>
+    <dimen name="elevation_button_8">8dp</dimen>
+    <dimen name="elevation_dialog">24dp</dimen>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317314556852",
+    "firebase_url": "https://newsguardian.firebaseio.com",
+    "project_id": "newsguardian",
+    "storage_bucket": "newsguardian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317314556852:android:e37bbfe7f6b1167f",
+        "android_client_info": {
+          "package_name": "com.example.newsguardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317314556852-ck02623isqtkp2digtuufod5jga6or4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsguardian",
+            "certificate_hash": "7dbdb2fa1b09e73e8351932d6af361cb53f67aed"
+          }
+        },
+        {
+          "client_id": "317314556852-et5c1uvv0m5sqoh1s8ch9dg3ahklfj8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyc_EHVBF1pHBsV1WPCfWowlejNRNNnoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317314556852-et5c1uvv0m5sqoh1s8ch9dg3ahklfj8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

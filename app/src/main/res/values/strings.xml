@@ -1,0 +1,49 @@
+<resources>
+
+    <!--App name-->
+    <string name="app_name">News Guardian</string>
+
+    <!--Favorite Activity name-->
+    <string name="favorite_activity_name">Favorite News</string>
+
+    <!--Favorite Widget-->
+    <string name="appwidget_text">News Guardian</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorite_news">Favorite News</string>
+
+    <!--Coma sign-->
+    <string name="comma">, </string>
+
+    <!--My Guardian API key-->
+    <string name="api_key" translatable="false">36a5c86b-ddca-470c-a2be-5ebe49f0d25e</string>
+
+    <!--error message that will be shown if something went wrong-->
+    <string name="error_message">An error happened, sorry </string>
+
+    <!--Sample test ad unit ID for banner ad-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- Lorem ipsums -->
+    <string name="lorem_ipsum_short">Lorem ipsum dolor sit amet</string>
+    <string name="lorem_ipsum_medium">Lorem ipsum dolor sit amet,consectetur adipiscing elit</string>
+    <string name="lorem_ipsum_large">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <!-- Image descriptions -->
+    <string name="logo_description">The app\'s logo.</string>
+    <string name="thumbnail_description">Thumbnail for this particular news</string>
+
+    <!-- FAB description -->
+    <string name="fab_description">Add to favorite</string>
+
+    <!-- Menu -->
+    <string name="favorite">Favorite</string>
+
+    <!-- Tost messages -->
+    <string name="check_internet_connection">Check your internet connection and try again</string>
+    <string name="saved_to_favorite">Saved to favorite</string>
+    <string name="already_exists">This news already exists in the favorite database</string>
+    <string name="no_data_favorite">There\'s no data yet</string>
+
+</resources>
+
+
